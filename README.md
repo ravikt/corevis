@@ -1,1 +1,1 @@
-# Computer_Vision
+# Minimal Dependency Computer Vision Library
